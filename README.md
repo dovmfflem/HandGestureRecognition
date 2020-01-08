@@ -23,3 +23,4 @@ $ sudo java -jar HandGestureRecognition.jar
 
 실행결과
 
+<img width="597" alt="Screenshot from 2020-01-08 14-51-37" src="https://user-images.githubusercontent.com/13896638/71953892-ec21b700-3226-11ea-9433-5df42e2d3d14.png">
